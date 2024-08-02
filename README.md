@@ -19,16 +19,18 @@ Analyse and visualise sales data.
 
 ## Step 2: Get Insights
 
-**Overall Insights:**
+**Overall Insights for the whole period (2023):**
 - Total sales: CHF 480,454.22  
 - Device sales: CHF 407,512.46  
 - Add-on sales: CHF 72,941.76  
 
+**Insights about Device Sales for the whole period (2023):**
 - Number of devices purchased: 995  
 - Maximum device price: CHF 1,996.07  
 - Average device price: CHF 409.56  
 - Minimum device price: CHF 108.80  
 
+**Insights about Add-on Sales for the whole period (2023):**
 - Maximum add-on sales: CHF 498.35  
 - Average add-on sales: CHF 145.88  
 - Minimum add-on sales: CHF 2.16  
@@ -38,6 +40,11 @@ Analyse and visualise sales data.
 - Q2 stands out with the **highest purchase amount (CHF 115,910.14)** and **average device price (CHF 445.81)**, suggesting a successful quarter for device sales.  
 - Q3 has the **lowest purchase amount (CHF 97,164.57)** and **average device price (CHF 369.45)**, potentially indicating lower-priced devices or discounts.
 
+## Step 3: Sample Visualisations
+
+![Graph 1](https://github.com/elinavigand/sales_analysis/blob/main/pictures/graph1.png)
+
+![Graph 2](https://github.com/elinavigand/sales_analysis/blob/main/pictures/graph2.png)
 
 ## Where to find the files
 1. Data processing/transformation scripts are being kept [here.](https://github.com/elinavigand/sales_analysis/blob/main/Sales_Analysis_20240802.ipynb)
